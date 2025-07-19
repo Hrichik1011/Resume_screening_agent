@@ -120,4 +120,4 @@ Please rank them from most to least suitable, and explain why.
 st.markdown("---")
 st.markdown("<center><small>Made with ❤️ using Streamlit + Gemini</small></center>", unsafe_allow_html=True)
 
-# "python -m streamlit run app.py" Run this command on terminal to run the app.
+# "python -m streamlit run streamlit_app.py" Run this command on terminal to run the app.

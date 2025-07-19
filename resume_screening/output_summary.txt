@@ -1,0 +1,38 @@
+Here's the ranking of the resumes based on their suitability for the Data Scientist role, along with the reasoning:
+
+---
+
+### Ranking and Justification:
+
+**1. SAMPLE_1**
+
+*   **Suitability Score:** High
+*   **Reasoning:**
+    *   **Direct Match on Core Expertise:** She explicitly mentions proficiency in "Generative AI" and "Deep learning," which directly aligns with "Expertise in advanced natural language processing (NLP), and AI Modelling." Her internship at AROGYA PANDIT involved developing an "LLM powered pipeline" with specific NLP/AI tools (LLM, RAG, SNOMED-CT), demonstrating practical application of advanced NLP and AI modelling.
+    *   **Key Skills Match:** Proficiency in "Python," "Machine learning," "Generative AI," and "Deep learning" cover most of the explicit key skills (NLP, Python, Deep Learning).
+    *   **Internship Advantage:** Her two internships, especially the Generative AI one, provide concrete project experience that directly addresses the "any internship... will be added advantage" point, and showcases hands-on work in the required AI/NLP domains.
+    *   **Education:** As a "final-year Computer Science Engineering student," she meets the UG B.Tech/B.E. requirement.
+    *   **Areas for Clarification/Minor Gaps:** The resume does not explicitly mention SQL proficiency or familiarity with Looker. However, her strong alignment with the core AI/NLP requirements and project experience makes her the most suitable candidate.
+
+**2. SAMPLE_3**
+
+*   **Suitability Score:** Medium-High
+*   **Reasoning:**
+    *   **Strong Foundational Skills:** He clearly lists "Python," "SQL, MySQL, Oracle database," and "Proficient in machine learning algorithms (e.g., regression, classification, clustering, deep learning)." This covers Python, SQL, and Deep Learning from the key skills.
+    *   **AI/ML Alignment:** His proficiency in machine learning algorithms and deep learning aligns with the "AI Modelling" requirement.
+    *   **Technical Competencies:** Mentions "Cloud Architecture - Experience with AWS services," which is a plus for modern data science roles.
+    *   **Areas for Clarification/Minor Gaps:** While he mentions Deep Learning, there's no explicit mention of "advanced NLP" expertise or specific projects demonstrating this. There's no mention of Looker, agile methodologies, or experience in managing AI projects. He also doesn't list specific internships related to Data Science/AI, which Nisha provides. His resume lists general technical skills rather than applied project experience in the specific required domains.
+
+**3. SAMPLE_2**
+
+*   **Suitability Score:** Medium
+*   **Reasoning:**
+    *   **Education & Initiative:** Meets the B.Tech/B.E. education requirement and shows initiative by completing virtual training programs in "Generative AI" and "AI-ML" from Google.
+    *   **Exposure to AI/ML:** His internships indicate he has learned about "Generative AI," "GPT, diffusion models, and transformers," and "AI-ML fundamentals." This aligns with the AI/NLP aspects.
+    *   **Areas for Improvement/Significant Gaps:**
+        *   **Missing Key Technical Skills:** Crucially, there is *no explicit mention of Python or SQL proficiency* in his skills section, which are fundamental and explicitly listed "Key Skills" for this role.
+        *   **Internship Depth:** While he lists "internships," the descriptions suggest they are virtual training programs (e.g., "Completed Google Cloud Virtual Training Program") rather than hands-on, project-based development work like Nisha's. This implies theoretical understanding more than practical application.
+        *   **Lack of Specifics:** Doesn't mention Looker, agile methodologies, or experience in managing AI projects.
+    *   **Overall:** While he has exposure to AI/ML concepts and good education, the significant absence of explicit Python and SQL skills, combined with the nature of his "internships" being more training-focused, makes him less directly suitable for a Data Scientist role requiring immediate proficiency in these tools compared to the other two candidates.
+
+---
